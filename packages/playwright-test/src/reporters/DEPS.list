@@ -1,8 +1,0 @@
-[*]
-../common/**
-../isomorphic/**
-../util.ts
-../utilsBundle.ts
-
-[merge.ts]
-../runner/reporters.ts
